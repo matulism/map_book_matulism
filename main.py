@@ -24,4 +24,4 @@ if __name__ == '__main__':
             if menu_option == "4":
                 remove(users)
             if menu_option == "5":
-                uptade(users)
+                update(users)
