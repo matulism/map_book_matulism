@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 import tkintermapview
 
+from utils.crud_tk import  dodaj_uzytkownika,lista_uzytkownikow, pokaz_szczegoly_uzytkownika, usun_uzytkownika, edytuj_uzytkownika, aktualizuj_uzytkownika
 users = []
 
 
